@@ -1,0 +1,26 @@
+命令稿啟動於 2018年03月16日 上午 12:13:39
+]0;~/lab1_E24055089
+[32muser@DESKTOP-G21EBTU [33m~/lab1_E24055089[0m
+$ whoami;pwd
+user
+/cygdrive/c/Users/user/AppData/Roaming/SPB_16.6/lab1_E24055089
+]0;~/lab1_E24055089
+[32muser@DESKTOP-G21EBTU [33m~/lab1_E24055089[0m
+$ git config -l
+user.email=lohjieleong@gmail.com
+user.name=lohjieleong
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+]0;~/lab1_E24055089
+[32muser@DESKTOP-G21EBTU [33m~/lab1_E24055089[0m
+$ gir[Kt clone https://github.com/lohjieleong/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~/lab1_E24055089
+[32muser@DESKTOP-G21EBTU [33m~/lab1_E24055089[0m
+$ exit
+
+命令稿已於 2018年03月16日 上午 12:14:47
+ 完成
